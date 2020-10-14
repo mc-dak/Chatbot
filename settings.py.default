@@ -1,0 +1,164 @@
+GROUP_ID = 194926720
+TOKEN = ""
+
+
+DESTINATIONS = [
+    {
+        "name": "Москва-Гонконг",
+        "departure": ("москв", "mosc"),
+        "right_departure": "Москва",
+        "arrival": ("гонк", "хонк", "hong"),
+        "right_arrival": "Гонконг",
+        "flight_number": "FL001",
+        "timetable": ("Monday", "Friday")
+    },
+    {
+        "name": "Москва-Гонконг",
+        "departure": ("москв", "mosc"),
+        "right_departure": "Москва",
+        "arrival": ("гонк", "хонк", "hong"),
+        "right_arrival": "Гонконг",
+        "flight_number": "FL002",
+        "timetable": "Tuesday"
+    },
+    {
+        "name": "Москва-Гонконг",
+        "departure": ("москв", "mosc"),
+        "right_departure": "Москва",
+        "arrival": ("гонк", "хонк", "hong"),
+        "right_arrival": "Гонконг",
+        "flight_number": "FL003",
+        "timetable": "15"
+    },
+    {
+        "name": "Москва-Сеул",
+        "departure": ("москв", "mosc"),
+        "right_departure": "Москва",
+        "arrival": ("сеул", "seoul"),
+        "right_arrival": "Сеул",
+        "flight_number": "FL004",
+        "timetable": ("Tuesday", "Thursday")
+    },
+    {
+        "name": "Гонконг-Макао",
+        "departure": ("гонк", "хонк", "hong"),
+        "right_departure": "Гонконг",
+        "arrival": ("мака", "maca"),
+        "right_arrival": "Макао",
+        "flight_number": "FL005",
+        "timetable": ("10", "20")
+    }
+]
+
+
+INTENTS_TICKET = [
+    {
+        "name": "Приветствие",
+        "tokens": ("привет", "здравствуйте", "/help"),
+        "scenario": None,
+        "answer": "Здравствуйте. С помощью этого бота вы можете оставить запрос на приобретение билета. "
+                  "Введите /ticket и ответьте на все вопросы"
+    },
+    {
+        "name": "Покупка билета",
+        "tokens": ("покупка", "/ticket"),
+        "scenario": "purchase",
+        "answer": None
+    }
+]
+
+SCENARIOS_TICKET = {
+    "purchase": {
+        "first_step": "step1",
+        "steps": {
+            "step1": {
+                "text": "Введите город отправления.",
+                "failure_text": "Вылета из этого города нет. На данный момент есть только полеты между городами: "
+                                "Москва-Гонконг, Москва-Сеул, Гонконг-Макао",
+                "handler": "handle_departure",
+                "to_step": None,
+                "next_step": "step2"
+            },
+            "step2": {
+                "text": "Введите город прибытия.",
+                "failure_text": "{error_message}",
+                "handler": "handle_arrival",
+                "to_step": "step9",
+                "next_step": "step3"
+            },
+            "step3": {
+                "text": "Введите дату вылета в формате 01-05-2020.",
+                "failure_text": "Неправильный формат введеной даты. Введите еще раз",
+                "handler": "handle_date",
+                "to_step": None,
+                "next_step": "step4"
+            },
+            "step4": {
+                "text": "Выберите нужный рейс, нажав соответствующую цифру : \n"
+                        "{option1}\n"
+                        "{option2}\n"
+                        "{option3}\n"
+                        "{option4}\n"
+                        "{option5}\n",
+                "failure_text": "Введите цифру от 1 до 5",
+                "handler": "handle_flight",
+                "to_step": None,
+                "next_step": "step5"
+            },
+            "step5": {
+                "text": " Выберите количество мест от 1 до 5",
+                "failure_text": "Введите еще раз цифру от 1 до 5",
+                "handler": "handle_seats",
+                "to_step": None,
+                "next_step": "step6"
+            },
+            "step6": {
+                "text": " Напишите комментарий в произвольной форме",
+                "failure_text": None,
+                "handler": "handle_comment",
+                "to_step": None,
+                "next_step": "step7"
+            },
+            "step7": {
+                "text": " Уточняем введенные данные\n"
+                        "Отправление: {departure}\n"
+                        "Прилет: {arrival}\n"
+                        "Дата: {date}\n"
+                        "Номер рейса: {number_of_flight}\n"
+                        "Количество мест: {number_of_seats}\n"
+                        "Комментарий: {comment}\n"
+                        "Данные верны ?"
+                        "Введите 'да' или 'нет'.",
+                "failure_text": "{failure_answer}",
+                "handler": "handle_answer",
+                "to_step": "step9",
+                "next_step": "step8"
+            },
+            "step8": {
+                "text": " Введите номер телефона через 8",
+                "failure_text": "Номер должен содержать только цифры, 11 символов",
+                "handler": "handle_phone",
+                "to_step": None,
+                "next_step": "step9"
+            },
+            "step9": {
+                "text": "Спасибо за пользование нашим сервисом! Мы свяжемся с вами по телефону {phone}.",
+                "image": "generate_ticket",
+                "failure_text": None,
+                "handler": None,
+                "to_step": None,
+                "next_step": None
+            },
+        }
+    }
+}
+
+DEFAULT_ANSWER = 'Не знаю, как на это ответить. Введите /help для описания или /ticket для запроса на покупку билета'
+
+DB_CONFIG = dict(
+    provider='postgres',
+    user='postgres',
+    password='070689',
+    host='localhost',
+    database='vk_chat_bot'
+)

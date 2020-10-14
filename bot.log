@@ -1,0 +1,284 @@
+11-06-2020 22:58;DEBUG;User gets {'name': 'Приветствие', 'tokens': ('привет', 'здравствуйте', '/help'), 'scenario': None, 'answer': 'Здравствуйте. С помощью этого бота вы можете оставить запрос на приобретение билета. Введите /ticket и ответьте на все вопросы'}
+11-06-2020 22:58;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 22:58;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 22:58;DEBUG;User gets {'name': 'Покупка билета', 'tokens': ('покупка', '/ticket'), 'scenario': 'purchase', 'answer': None}
+11-06-2020 22:58;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 22:58;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 22:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 22:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 22:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 22:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 22:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 22:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 22:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 22:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 22:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 22:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:01;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:01;DEBUG;User gets {'name': 'Приветствие', 'tokens': ('привет', 'здравствуйте', '/help'), 'scenario': None, 'answer': 'Здравствуйте. С помощью этого бота вы можете оставить запрос на приобретение билета. Введите /ticket и ответьте на все вопросы'}
+11-06-2020 23:01;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:01;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:01;DEBUG;User gets {'name': 'Покупка билета', 'tokens': ('покупка', '/ticket'), 'scenario': 'purchase', 'answer': None}
+11-06-2020 23:01;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:01;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:01;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:04;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:04;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:36;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:36;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:36;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:37;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:37;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:37;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:37;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:37;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:37;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:37;INFO;Запрос на перелет из Москва в Гонконг на дату 2020-06-15, номер рейса FL001, количество мест 1, комментарий: ertrg, телефон: 89637178340
+11-06-2020 23:37;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:55;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:56;DEBUG;User gets {'name': 'Покупка билета', 'tokens': ('покупка', '/ticket'), 'scenario': 'purchase', 'answer': None}
+11-06-2020 23:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:57;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:57;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:57;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:57;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:58;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:58;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:58;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+11-06-2020 23:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+11-06-2020 23:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+12-06-2020 14:04;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+12-06-2020 14:04;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+12-06-2020 14:04;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+12-06-2020 14:05;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+12-06-2020 14:05;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+12-06-2020 14:05;INFO;Запрос на перелет из Москва в Гонконг на дату 2020-06-05, номер рейса FL001, количество мест 1, комментарий: тестовый коммент, телефон: 89151231234
+12-06-2020 14:05;ERROR;ошибка в обработке события
+Traceback (most recent call last):
+  File "/Users/dak/PycharmProjects/python_base_new/chatbot/bot.py", line 68, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/Users/dak/PycharmProjects/python_base/venv-chatbot/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/Users/dak/PycharmProjects/python_base_new/chatbot/bot.py", line 92, in on_event
+    text_to_send = self.continue_scenario(text, state)
+  File "/Users/dak/PycharmProjects/python_base_new/chatbot/bot.py", line 142, in continue_scenario
+    TicketRequest(departure=state.context('departure'),
+TypeError: 'TrackedDict' object is not callable
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+16-06-2020 01:56;DEBUG;User gets {'name': 'Приветствие', 'tokens': ('привет', 'здравствуйте', '/help'), 'scenario': None, 'answer': 'Здравствуйте. С помощью этого бота вы можете оставить запрос на приобретение билета. Введите /ticket и ответьте на все вопросы'}
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+16-06-2020 01:56;DEBUG;User gets {'name': 'Покупка билета', 'tokens': ('покупка', '/ticket'), 'scenario': 'purchase', 'answer': None}
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+16-06-2020 01:56;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+16-06-2020 10:37;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+16-06-2020 10:37;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 20:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 20:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 20:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 20:41;DEBUG;User gets {'name': 'Покупка билета', 'tokens': ('покупка', '/ticket'), 'scenario': 'purchase', 'answer': None}
+17-06-2020 20:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 20:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 20:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 20:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 20:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 20:42;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 20:42;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 20:42;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 20:42;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 20:42;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 20:42;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 20:42;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 20:42;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 20:42;INFO;Запрос на перелет из Москва в Гонконг на дату 2020-05-01, номер рейса FL001, количество мест 1, комментарий: 1, телефон: 89161234121
+17-06-2020 20:42;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 20:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 20:59;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:00;DEBUG;User gets {'name': 'Покупка билета', 'tokens': ('покупка', '/ticket'), 'scenario': 'purchase', 'answer': None}
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:00;ERROR;ошибка в обработке события
+Traceback (most recent call last):
+  File "/Users/dak/PycharmProjects/python_base_new/chatbot/bot.py", line 61, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/Users/dak/PycharmProjects/python_base/venv-chatbot/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/Users/dak/PycharmProjects/python_base_new/chatbot/bot.py", line 82, in on_event
+    self.continue_scenario(text, state, event)
+  File "/Users/dak/PycharmProjects/python_base_new/chatbot/bot.py", line 137, in continue_scenario
+    self.send_step(next_step, event, text, state.context)
+  File "/Users/dak/PycharmProjects/python_base_new/chatbot/bot.py", line 114, in send_step
+    handler = getattr(handlers, step['handler'])
+TypeError: getattr(): attribute name must be string
+17-06-2020 21:00;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:02;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:02;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:02;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:02;INFO;Запрос на перелет из Москва в Гонконг на дату 2020-06-02, номер рейса FL002, количество мест 1, комментарий: 1, телефон: 89161106612
+17-06-2020 21:02;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:02;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:02;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:03;DEBUG;User gets {'name': 'Покупка билета', 'tokens': ('покупка', '/ticket'), 'scenario': 'purchase', 'answer': None}
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:03;INFO;Запрос на перелет из Москва в Гонконг на дату 2020-05-18, номер рейса FL001, количество мест 2, комментарий: ва, телефон: 89161231234
+17-06-2020 21:03;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:06;DEBUG;User gets {'name': 'Покупка билета', 'tokens': ('покупка', '/ticket'), 'scenario': 'purchase', 'answer': None}
+17-06-2020 21:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:07;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+17-06-2020 21:07;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:07;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+17-06-2020 21:07;INFO;Запрос на перелет из Москва в Гонконг на дату 2020-05-15, номер рейса FL001, количество мест 1, комментарий: 1, телефон: 89167891234
+17-06-2020 21:07;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+18-06-2020 12:06;DEBUG;User gets {'name': 'Покупка билета', 'tokens': ('покупка', '/ticket'), 'scenario': 'purchase', 'answer': None}
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+18-06-2020 12:06;INFO;Запрос на перелет из Москва в Гонконг на дату 2020-06-19, номер рейса FL001, количество мест 1, комментарий: 1, телефон: 89167171234
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:06;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+18-06-2020 12:20;DEBUG;User gets {'name': 'Покупка билета', 'tokens': ('покупка', '/ticket'), 'scenario': 'purchase', 'answer': None}
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:20;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+18-06-2020 12:21;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+18-06-2020 12:21;INFO;Запрос на перелет из Москва в Гонконг на дату 2020-05-18, номер рейса FL001, количество мест 2, комментарий: вва, телефон: 89172021234
+18-06-2020 12:21;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+18-06-2020 12:21;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:32;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:32;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:32;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:32;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:32;DEBUG;User gets {'name': 'Приветствие', 'tokens': ('привет', 'здравствуйте', '/help'), 'scenario': None, 'answer': 'Здравствуйте. С помощью этого бота вы можете оставить запрос на приобретение билета. Введите /ticket и ответьте на все вопросы'}
+06-07-2020 15:32;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:32;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:33;DEBUG;User gets {'name': 'Покупка билета', 'tokens': ('покупка', '/ticket'), 'scenario': 'purchase', 'answer': None}
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:33;INFO;Запрос на перелет из Москва в Гонконг на дату 2020-07-07, номер рейса FL002, количество мест 1, комментарий: тест 1, телефон: 89161231234
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:33;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:39;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:39;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:39;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:39;DEBUG;User gets {'name': 'Приветствие', 'tokens': ('привет', 'здравствуйте', '/help'), 'scenario': None, 'answer': 'Здравствуйте. С помощью этого бота вы можете оставить запрос на приобретение билета. Введите /ticket и ответьте на все вопросы'}
+06-07-2020 15:39;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:39;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:39;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:39;DEBUG;User gets {'name': 'Покупка билета', 'tokens': ('покупка', '/ticket'), 'scenario': 'purchase', 'answer': None}
+06-07-2020 15:39;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:40;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
+06-07-2020 15:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_TYPING_STATE
+06-07-2020 15:41;DEBUG;User gets {'name': 'Приветствие', 'tokens': ('привет', 'здравствуйте', '/help'), 'scenario': None, 'answer': 'Здравствуйте. С помощью этого бота вы можете оставить запрос на приобретение билета. Введите /ticket и ответьте на все вопросы'}
+06-07-2020 15:41;INFO;мы еще не умеем обрабатывать такой тип событий VkBotEventType.MESSAGE_REPLY
